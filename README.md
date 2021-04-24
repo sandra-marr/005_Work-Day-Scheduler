@@ -23,7 +23,7 @@ THEN the text for that event is saved in local storage
 WHEN I refresh the page
 THEN the saved events persist
 ```
-Here is a link to the application: 
+Here is a link to the application: https://sandra-marr.github.io/Homework05/
 
 The following animation demonstrates the application functionality:
 
