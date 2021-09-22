@@ -1,6 +1,4 @@
-# Homework05
-
-## Work Day Scheduler
+# Work Day Scheduler
 
 This schedule tool was developed using HTML, CSS, javascript, jQuery, and bootstrap. 
 
